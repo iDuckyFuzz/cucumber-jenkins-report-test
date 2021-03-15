@@ -1,0 +1,17 @@
+{
+  "name": "cucumber-jenkins",
+  "version": "1.0.0",
+  "description": "",
+  "main": "protractor.conf.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@cucumber/cucumber": "^7.0.0",
+    "protractor-cucumber-framework": "^8.0.0"
+  },
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
